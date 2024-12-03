@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeneDx-AlexMcFadden
-- 🌱 I’m currently working on [ESP](github.com/genedx/esp), especially its testing and CI pipelines
+- 🌱 I’m currently working on [ESP](https://github.com/genedx/esp), especially its testing and CI pipelines
 - 📫 How to reach me: alex.mcfadden@genedx.com, alexander.mcfadden@gmail.com, nine-seven-one four-eight-two six-one-oh-seven (oncall)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: North America was once populated by [camels](https://en.wikipedia.org/wiki/Camelops)
