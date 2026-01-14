@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeneDx-AlexMcFadden
-- 🌱 I’m currently working on [ESP](https://github.com/genedx/esp) and [OSCAR](https://github.com/genedx/oscar), especially around NGS and Mito pipelines
+- 🌱 I’m currently working on [ESP](https://github.com/genedx/esp), and the [LabOps Dispatcher](https://github.com/genedx/labops-dispatcher) and [LabOps Message Queue](https://github.com/genedx/labops-message-queue) services.
 - 📫 How to reach me: alex.mcfadden@genedx.com, alexander.mcfadden@gmail.com, five-oh-three-three-three-three-three-four-two-two
 - 😄 Pronouns: he/him/his
 <!---
